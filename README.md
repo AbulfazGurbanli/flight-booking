@@ -40,7 +40,6 @@ The project follows layered architecture:
 - Input validation
 - Global exception handling
 
-*(Features hissəsini gələcəkdə genişləndirə bilərsən.)*
 
 ## ⚙️ How to Run
 
